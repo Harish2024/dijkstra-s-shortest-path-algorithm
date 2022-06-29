@@ -36,8 +36,8 @@ d) If the selected node is not the GOAL node, expand node to generate the ‘imm
 ![WhatsApp Image 2022-05-01 at 9 56 54 PM](https://user-images.githubusercontent.com/75234588/166159420-b0cca715-d1cd-4e4f-87ab-1c48054fc5c9.jpeg)
 
 ## PROGRAM
-### Developed By: krishna moorthy S
-### Register No: 212220230025
+### Developed By: harish g
+### Register No: 212220230021
 
 ```python
 %matplotlib inline
