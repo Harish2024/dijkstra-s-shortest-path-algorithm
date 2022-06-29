@@ -1,4 +1,7 @@
-# Dijkstra's Shortest Path Algorithm
+## EX.NO: 03
+## DATE: 10-05-2022
+## <p align="center">Dijkstra's Shortest Path Algorithm</P>
+
 ## AIM
 
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
@@ -33,11 +36,8 @@ d) If the selected node is not the GOAL node, expand node to generate the ‘imm
 ![WhatsApp Image 2022-05-01 at 9 56 54 PM](https://user-images.githubusercontent.com/75234588/166159420-b0cca715-d1cd-4e4f-87ab-1c48054fc5c9.jpeg)
 
 ## PROGRAM
-```
-Developed By
-Student name : HARISH.G
-Reg.no : 212220230021
-```
+### Developed By: krishna moorthy S
+### Register No: 212220230025
 
 ```python
 %matplotlib inline
@@ -270,4 +270,3 @@ In best-first search algorithm, the selected node is verified as parent node or 
 
 ## RESULT:
 Thus an algorithm to find the route from the source to the destination point using best-first search is developed and executed successfully.
-
